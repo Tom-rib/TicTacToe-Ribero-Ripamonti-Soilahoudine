@@ -1,3 +1,5 @@
+import random
+
 # Tour du bot
 def tour_bot(grille):
     position = random.randint(0, 8)
